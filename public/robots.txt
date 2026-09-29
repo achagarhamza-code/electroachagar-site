@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.env*
+Disallow: /package.json
+
+Sitemap: https://electroachagar.ma/sitemap.xml
